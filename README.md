@@ -1,8 +1,8 @@
 # dataprojects
 Здесь представлены несколько проектов, выполненных мной во время обучения в "Яндекс Практикум". Предлагаю ознакомиться с самыми интересными:
 1. [Сегментация клиентов банка](банки.ipynb), [презентация](https://disk.yandex.ru/i/dI_NY2KGzzicxA) и [дашборд](https://public.tableau.com/app/profile/polina.safonova/viz/banks_churn_16953811291880/Dashboard1)
-2. [Оценка результатов A/B-теста](ab_test.ipynb)
-3. [Рынок заведений общественного питания Москвы](restaurants.ipynb), [презентация](https://disk.yandex.ru/i/Ua1Wv3d8CB_XlQ)
+2.  [Рынок заведений общественного питания Москвы](restaurants.ipynb), [презентация](https://disk.yandex.ru/i/Ua1Wv3d8CB_XlQ)
+3. [Оценка результатов A/B-теста](ab_test.ipynb)
 4. [Дашборд](https://public.tableau.com/app/profile/polina.safonova/viz/TEDtalkspresentation/sheet22) TED-конференций
 
 | №| Название проекта | Задачи                                                    | Навыки и инструменты           |  
