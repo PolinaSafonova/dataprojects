@@ -1,6 +1,6 @@
 # dataprojects
 Здесь представлены несколько проектов, выполненных мной во время обучения в "Яндекс Практикум". Предлагаю ознакомиться с самыми интересными:
-1. [Сегментация клиентов банка](банки.ipynb), [презентация](https://disk.yandex.ru/i/dI_NY2KGzzicxA) и [дашборд](https://public.tableau.com/app/profile/polina.safonova/viz/banks_churn_16953811291880/Dashboard1)
+1. [Сегментация клиентов банка](bank/banks.ipynb), [презентация](https://disk.yandex.ru/i/dI_NY2KGzzicxA) и [дашборд](https://public.tableau.com/app/profile/polina.safonova/viz/banks_churn_16953811291880/Dashboard1)
 2.  [Рынок заведений общественного питания Москвы](restaurants.ipynb), [презентация](https://disk.yandex.ru/i/Ua1Wv3d8CB_XlQ)
 3. [Оценка результатов A/B-теста](ab_test.ipynb)
 4. [Дашборд](https://public.tableau.com/app/profile/polina.safonova/viz/TEDtalkspresentation/sheet22) TED-конференций
@@ -13,6 +13,6 @@
 |4              |[Поведение пользователей мобильного приложения](app_ab.ipynb)| Анализ воронки продаж на основе данных использования мобильного приложения для продажи продуктов питания, оценка результатов A/A/B-тестирования |`A/B-тестирование` `Python` `Pandas` `Matplotlib` `продуктовые метрики` `событийная аналитика` `проверка статистических гипотез`|
 |5              |[Рынок заведений общественного питания Москвы](restaurants.ipynb), [презентация](https://disk.yandex.ru/i/Ua1Wv3d8CB_XlQ)|Исследования рынка общепита в Москве для принятия решения об открытии нового заведения|`Python` `Pandas` `Plotly` `Seaborn` `визуализация данных`|
 |6              |[Дашборд](https://public.tableau.com/app/profile/polina.safonova/viz/TEDtalkspresentation/sheet22) по пользовательским событиям для агрегатора новостей|Исследование истории TED-конференций| `Tableau` `продуктовые метрики` `построение дашбордов` |
-|7              |Выпускной проект: [Сегментация клиентов банка](банки.ipynb), [презентация](https://disk.yandex.ru/i/dI_NY2KGzzicxA) и [дашборд](https://public.tableau.com/app/profile/polina.safonova/viz/banks_churn_16953811291880/Dashboard1) |Анализ оттока клиентов банка и сегментация пользователей по количеству потребляемых продуктов, выделение отточных сегментов, рекомендации по удержанию клиентов|`Python` `Pandas` `Plotly` `Tableau` `проверка статистических гипотез`|
+|7              |Выпускной проект: [Сегментация клиентов банка](bank/banks.ipynb), [презентация](https://disk.yandex.ru/i/dI_NY2KGzzicxA) и [дашборд](https://public.tableau.com/app/profile/polina.safonova/viz/banks_churn_16953811291880/Dashboard1) |Анализ оттока клиентов банка и сегментация пользователей по количеству потребляемых продуктов, выделение отточных сегментов, рекомендации по удержанию клиентов|`Python` `Pandas` `Plotly` `Tableau` `проверка статистических гипотез`|
 |8              |Выпускной проект: [Оценка результатов A/B-теста](ab_test.ipynb)|Оценка корректности проведения A/B-теста и его результатов|`Python` `Pandas` `Plotly` `A/B-тестирование` `проверка статистических гипотез`|
 |9              |Выпускной проект: [SQL](sql_books.ipynb)|Анализ базы данных сервиса для чтения книг|`SQL` `PostreSQL`|
