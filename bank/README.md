@@ -24,5 +24,6 @@
 - EST_SALARY — оценочный доход клиента,
 - сhurn — признак оттока.
 
-## **Библиотеки**
-pandas, scipy, statsmodels, matplotlib, seaborn, plotly
+## **Библиотеки и инструменты**
+`Python` `Pandas` `Plotly` `SciPy` `Statsmodels` `Matplotlib` `Seaborn` `Tableau`  `проверка статистических гипотез`
+
